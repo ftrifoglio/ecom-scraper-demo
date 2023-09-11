@@ -1,0 +1,9 @@
+.venv
+.poetry
+.env
+*.db
+__pycache__
+.python-version
+.ruff_cache
+.mypy_cache
+.pytest_cache
